@@ -1,0 +1,8 @@
+Diese Treiber und toolkits werden benötigt um das Model vom GPU berechnen zu lassen. 
+Allerdings kann man das ignorieren, wenn das bereits berechnete Modell verwendet wird.
+
+https://www.tensorflow.org/install/gpu
+
+NVIDIA gpu driver
+cuda toolkit
+cudnnsdk 
